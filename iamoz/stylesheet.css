@@ -1,0 +1,299 @@
+body {
+ background-image: url("gif.gif");
+ background-color: black;
+}
+
+img#self{
+  width: 202px;
+  height: 304px;
+  position: absolute;
+  margin-left: 67px;
+  margin-top: 20px; 
+  
+
+}
+
+img#name{
+  width: 197px;
+  height: 304px;
+  position: absolute;
+  margin-left: 265px;
+  margin-top: -20px; 
+  
+
+}
+
+img#hobbies{
+  width: 224px;
+  height: 295px;
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 101px; 
+  
+
+}
+
+img#nickname{
+  width: 224px;
+  height: 146px;
+  position: absolute;
+  margin-left: 441px;
+  margin-top: 88px; 
+  
+
+}
+
+img#family{
+  width: 224px;
+  height: 168px;
+  position: absolute;
+  margin-left: 455px;
+  margin-top: 234px; 
+  
+
+}
+
+img#born{
+  width: 170px;
+  height: 300px;
+  position: absolute;
+  margin-left: 418px;
+  margin-top: 81px; 
+  
+
+}
+
+img#birthday{
+  width: 155px;
+  height: 300px;
+  position: absolute;
+  margin-left: 375px;
+  margin-top: 125px; 
+  
+
+}
+
+img#proud{
+  width: 230px;
+  height: 300px;
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 285px; 
+  
+
+}
+
+img#lookup{
+  width: 172px;
+  height: 300px;
+  position: absolute;
+  margin-left:300px;
+  margin-top: 210px; 
+  
+
+}
+
+img#lived{
+  width: 357px;
+  height: 300px;
+  position: absolute;
+  margin-left:290px;
+  margin-top: 210px; 
+  
+
+}
+
+img#never{
+  width: 87px;
+  height: 300px;
+  position: absolute;
+  margin-left:70px;
+  margin-top: 283px; 
+  
+
+}
+
+img#time{
+  width: 150px;
+  height: 300px;
+  position: absolute;
+  margin-left:150px;
+  margin-top: 335px; 
+  
+
+}
+
+img#mem{
+  width: 242px;
+  height: 300px;
+  position: absolute;
+  margin-left:64px;
+  margin-top: 460px; 
+  
+
+}
+
+img#teacher{
+  width: 115px;
+  height: 300px;
+  position: absolute;
+  margin-left:70px;
+  margin-top: 500px; 
+  
+
+}
+
+img#circ{
+  width: 358px;
+  height: 358px;
+  position: absolute;
+  margin-left:291px;
+  margin-top: 397px; 
+  
+
+}
+
+img#book{
+  width: 177.5px;
+  height: 355px;
+  position: absolute;
+  margin-left:292px;
+  margin-top: 460px; 
+  
+
+}
+
+img#team{
+  width: 127px;
+  height: 355px;
+  position: absolute;
+  margin-left:343px;
+  margin-top: 486.5px; 
+  
+
+}
+
+img#color{
+  width: 127px;
+  height: 355px;
+  position: absolute;
+  margin-left:470px;
+  margin-top: 486.5px; 
+  
+
+}
+
+img#movie{
+  width: 177.5px;
+  height: 355px;
+  position: absolute;
+  margin-left:469.5px;
+  margin-top: 460px; 
+  
+
+}
+
+img#class{
+  width: 177.5px;
+  height: 355px;
+  position: absolute;
+  margin-left:469.5px;
+  margin-top: 336px; 
+  
+
+}
+
+img#food{
+  width: 127px;
+  height: 355px;
+  position: absolute;
+  margin-left:470px;
+  margin-top: 310px; 
+  
+
+}
+
+img#music{
+  width: 127px;
+  height: 355px;
+  position: absolute;
+  margin-left:343px;
+  margin-top: 310px; 
+  
+
+}
+
+img#tv{
+  width: 177.5px;
+  height: 355px;
+  position: absolute;
+  margin-left:292px;
+  margin-top: 336px; 
+  
+
+}
+
+img#pet{
+  width: 177.5px;
+  height: 355px;
+  position: absolute;
+  margin-left:298px;
+  margin-top: 300px; 
+  
+
+}
+
+img#child{
+  width: 288px;
+  height: 355px;
+  position: absolute;
+  margin-left:185px;
+  margin-top: 473px; 
+  
+
+}
+
+img#who{
+  width: 288px;
+  height: 355px;
+  position: absolute;
+  margin-left:330px;
+  margin-top: -125px; 
+  
+
+}
+
+img#hello{
+  width: 400px;
+  height: 355px;
+  position: absolute;
+  margin-left:730px;
+  margin-top: 100px; 
+  
+
+}
+
+img#oz{
+width: 200px;
+  height: 200px;
+  position: absolute;
+  margin-left:630px;
+  margin-top: 440px; 
+}
+
+
+img#back{
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+  width: 616px;
+  position: absolute;
+  height: 795px;
+}
+
+img:hover{
+transition: 1s;
+-webkit-filter: saturate(8);
+filter: saturate(8);
+}
+
